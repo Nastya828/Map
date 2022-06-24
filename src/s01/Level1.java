@@ -1,7 +1,7 @@
 package s01;
 
 public class Level1 {
-    int squirrel(int N) {
+    public static int squirrel(int N) {
         int f = 1;
         int x = 0;
         for (int i = 1; i <= N; i++) {
